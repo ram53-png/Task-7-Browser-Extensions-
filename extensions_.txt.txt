@@ -1,0 +1,22 @@
+Found:
+1. Grammarly – Writing assistant – Accesses all website data
+2. Honey – Coupon finder – Accesses shopping sites
+3. Unknown Extension X – No details, excessive permissions
+4. Eagle-get downloader - Fastens the download speed. 
+
+
+Removed:
+1. Unknown Extension X – No description, high permissions
+2. PDF Converter Pro – Showed ads and had low ratings
+
+
+Learned:
+- Only install extensions from trusted sources.
+- Always review permissions before installing.
+- Remove unused extensions regularly.
+- Malicious extensions can track activity or inject ads.
+
+
+
+
+
